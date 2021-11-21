@@ -38,4 +38,8 @@ Driver File. GUI designed inside it. Contains various functions (can be understo
 5. ⚠ All the files should be in a single directory. Otherwise, You've to make changes to the import statements.
 6. ⚠ Remember to install MySQL database & the MySQL Python connector.
 7. ⚠ Unsolvable puzzles puts the GUI into a long recursive loop. It may look like the GUI Window has been freezed (which is not).
+
+## References 🔍
+1. https://www.youtube.com/watch?v=xAXmfZmC2SI&t=0s
+2. https://www.youtube.com/watch?v=OF0H0B0IuFM
 ## Being updated 💬
